@@ -11,3 +11,6 @@ features:
 To draw resultant
 dot product result
 cross product result 
+
+
+draw_vector1.1.ipynb : has feature to set boundaries of graph, there are two variable for x and y.
